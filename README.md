@@ -50,7 +50,7 @@ Senior Frontend Developer with extensive experience in building scalable web app
 ### Web Quality & Performance
 
 ![Core Web Vitals](https://img.shields.io/badge/Core_Web_Vitals-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![WCAG AA](https://img.shields.io/badge/WCAG_AA-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
+![WCAG](https://img.shields.io/badge/WCAG_AA-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO_Optimization-008080?style=for-the-badge&logo=google&logoColor=white)
 
 ### Testing & Tools
