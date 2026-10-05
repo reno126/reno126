@@ -24,6 +24,24 @@ Senior Frontend Developer with extensive experience in building scalable web app
 - **[True Review](https://github.com/reno126/iiwi)** – Full-stack free and pubic web application.
   - 🛠️ **Tech Stack:** Next.js, Reacj, TypeScript, Tailwind CSS, Node.js, PostgreSQL
   - 🔗 **Live Demo:** [iiwi.vercel.app](https://iiwi.vercel.app/)
+- **[Dynamic Forms](https://github.com/reno126/dynamic-forms)** – Browser-based form builder and submission manager with IndexedDB persistence.
+  - 🛠️ **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Dexie.js
+  - 🔗 **Live Demo:** [dynamic-forms-eta.vercel.app](https://dynamic-forms-eta.vercel.app/)
+
+- **[Super Memo](https://github.com/reno126/super-memo)** – Responsive memory game with keyboard and touch controls.
+  - 🛠️ **Tech Stack:** React, TypeScript, Redux Toolkit, Tailwind CSS
+  - 🔗 **Live Demo:** [reno126.github.io/super-memo](https://reno126.github.io/super-memo/)
+
+- **[A History of Groundbreaking Computers](https://github.com/reno126/computer-history)** – Scroll-led visual timeline showcasing influential computers and motion effects.
+  - 🛠️ **Tech Stack:** React, TypeScript, Vite, Framer Motion, Tailwind CSS
+  - 🔗 **Live Demo:** [reno126.github.io/computer-history](https://reno126.github.io/computer-history/)
+
+### 🧪 Other Projects & Experiments
+
+- **[LED Configurator](https://github.com/reno126/led-configurator)** – experiment.
+  - 🛠️ **Tech Stack:** Reacj, TypeScript
+  - Verify the pros and cons of zero useEffect in pure CSR
+  - Using use react hook
 
 ---
 
