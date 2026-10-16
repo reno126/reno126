@@ -21,7 +21,7 @@ Senior Frontend Developer with extensive experience in building scalable web app
 
 ### 🌟 Production & Live Apps
 
-- **[True Review](https://github.com/reno126/iiwi)** – Full-stack free and pubic web application.
+- **[True Review](https://github.com/reno126/iiwi)** – Full-stack free and public web application.
   - 🛠️ **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Node.js, Prisma, PostgreSQL, Playwright, Vitest, CI/CD via GitHub Actions and Vercel
   - 🔗 **Live Demo:** [iiwi.vercel.app](https://iiwi.vercel.app/)
 
