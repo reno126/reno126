@@ -22,17 +22,17 @@ Senior Frontend Developer with extensive experience in building scalable web app
 ### 🌟 Production & Live Apps
 
 - **[True Review](https://github.com/reno126/iiwi)** – Full-stack free and pubic web application.
-  - 🛠️ **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Node.js, PostgreSQL
+  - 🛠️ **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Node.js, Prisma, PostgreSQL, Playwright, Vitest, CI/CD via GitHub Actions and Vercel
   - 🔗 **Live Demo:** [iiwi.vercel.app](https://iiwi.vercel.app/)
 
 - **[My Wallets](https://github.com/reno126/my-wallet-v2)** – Full-stack free financial app. **STILL UNDER DEVELOPMENT**
-  - 🛠️ **Tech Stack:** TypeScript, Node.js, Fastify, React Router, Prisma, PostgreSQL, Playwright, Vitest
-  - This is a pnpm workspace App with a React single-page client, a Fastify API, and shared browser-safe contracts.
+  - 🛠️ **Tech Stack:** TypeScript, Node.js, Fastify, OpenAPI, React Router, PostgreSQL, Playwright, Vitest, CI/CD via GitHub Actions/Railway/Vercel
+  - This is a pnpm workspace monorepo with React Router and a Fastify API, and shared browser-safe contracts.
   - Private stock investments tracking app.
   - **Live Demo:** [my-stock-wallets.vercel.app](https://my-stock-wallets.vercel.app/)
     
 - **[Dynamic Forms](https://github.com/reno126/dynamic-forms)** – Browser-based form builder and submission manager with IndexedDB persistence.
-  - 🛠️ **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Dexie.js
+  - 🛠️ **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Dexie.js, JEST, Playwright
   - 🔗 **Live Demo:** [dynamic-forms-eta.vercel.app](https://dynamic-forms-eta.vercel.app/)
     
 - **[Super Memo](https://github.com/reno126/super-memo)** – Responsive memory game with keyboard and touch controls.
