@@ -28,8 +28,7 @@ Senior Frontend Developer with extensive experience in building scalable web app
 - **[My Wallets](https://github.com/reno126/my-wallet-v2)** – Full-stack free financial app. **STILL UNDER DEVELOPMENT**
   - 🛠️ **Tech Stack:** TypeScript, Node.js, Fastify, OpenAPI, React Router, PostgreSQL, Playwright, Vitest, CI/CD via GitHub Actions/Railway/Vercel
   - This is a pnpm workspace monorepo with React Router and a Fastify API, and shared browser-safe contracts.
-  - Private stock investments tracking app.
-  - **Live Demo:** [my-stock-wallets.vercel.app](https://my-stock-wallets.vercel.app/)
+  - Private stock investment tracking app.
     
 - **[Dynamic Forms](https://github.com/reno126/dynamic-forms)** – Browser-based form builder and submission manager with IndexedDB persistence.
   - 🛠️ **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Dexie.js, JEST, Playwright
